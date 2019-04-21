@@ -1,3 +1,3 @@
 var $ = require('jquery');
 
-$('h2').html("Hello! i you are excited as I`m to be here!!");
+$('h2').html("Hello! I'm happy to see you.");
